@@ -14,7 +14,7 @@
   "contributes": {
     "commands": [
       {
-        "command": "close-tabs-via-regex.close-tabs-via-regex",
+        "command": "close-tabs-via-regex.close",
         "title": "Close Tabs via Regex"
       }
     ]
