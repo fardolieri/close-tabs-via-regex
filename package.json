@@ -16,6 +16,10 @@
       {
         "command": "close-tabs-via-regex.close",
         "title": "Close Tabs via Regex"
+      },
+      {
+        "command": "close-tabs-via-regex.prompt-close",
+        "title": "Close Tabs via Regex (Prompt)"
       }
     ]
   },
