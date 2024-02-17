@@ -3,6 +3,7 @@
   "displayName": "Close Tabs via Regex",
   "description": "Adds a command that closes all tabs that match a given regex.",
   "version": "0.0.1",
+  "publisher": "fardolieri",
   "repository": {
     "type": "git",
     "url": "https://github.com/fardolieri/close-tabs-via-regex"
