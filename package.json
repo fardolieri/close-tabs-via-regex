@@ -9,13 +9,13 @@
   "categories": [
     "Other"
   ],
-  "activationEvents": [],
+  "activationEvents": [ ],
   "browser": "./dist/web/extension.js",
   "contributes": {
     "commands": [
       {
-        "command": "close-tabs-via-regex.helloWorld",
-        "title": "Hello World"
+        "command": "close-tabs-via-regex.close-tabs-via-regex",
+        "title": "Close Tabs via Regex"
       }
     ]
   },
